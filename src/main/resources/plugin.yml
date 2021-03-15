@@ -1,0 +1,11 @@
+main: net.volverix.me.oxince.lobbysystem.LobbySystem
+name: Volverix-Lobby
+version: 1.0
+description: LobbySystem for Volverix.NET by oxince
+api-version: 1.8.8
+author: oxince
+website: www.volverix.net
+
+commands:
+  set:
+    description: asdas
